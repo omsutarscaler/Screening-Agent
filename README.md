@@ -1,6 +1,6 @@
-# Resume Screening Agent
+# Screening-Agent
 
-A Python FastAPI backend for a resume screening agent.
+A Python FastAPI backend for a resume screening agent that simplifies the hiring process.
 
 ## Setup
 
